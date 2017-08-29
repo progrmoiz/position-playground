@@ -1,0 +1,13 @@
+iframe {
+  border: 0;
+}
+
+.output {
+  width: 70%;
+  float: left;
+}
+
+.controls {
+  width: 30%;
+  float: right
+}
